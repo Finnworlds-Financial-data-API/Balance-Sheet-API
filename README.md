@@ -41,7 +41,7 @@ Our <a href="https://finnworlds.com/documentation">documentation</a> includes in
 
 
 
-<p>https://finnworlds.com/api/v1/balancesheets?key=YOUR-KEY&stock_ticker_symbol=aapl</p>
+<p><a href="https://finnworlds.com/documentation">https://finnworlds.com/api/v1/balancesheets?key=YOUR-KEY&stock_ticker_symbol=aapl</a></p>
 
 
 
@@ -79,7 +79,7 @@ Our <a href="https://finnworlds.com/documentation">documentation</a> includes in
 
 
 
-<p>https://finnworlds.com/api/v1/balancesheets?key=YOUR-KEY&sector=technology&industry=consumer_electronics&income_statement=total_assets&year=2021</p>
+<p><a href="https://finnworlds.com/documentation">https://finnworlds.com/api/v1/balancesheets?key=YOUR-KEY&sector=technology&industry=consumer_electronics&income_statement=total_assets&year=2021</a></p>
 
 
 
